@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+resources/RH-Get/resource_hacker/ResourceHacker.ini
